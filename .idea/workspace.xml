@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a2726ae-a2da-41f0-8876-e356ed04549f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/.vscode/NEWLY_CREATED_BY_SPRING_INITIALIZR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/spring-boot-aop-tutorial.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/target/spring-boot-aop-tutorial-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/target/surefire-reports/TEST-com.example.springbootaoptutorial.SpringBootAopTutorialApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop-tutorial/target/surefire-reports/com.example.springbootaoptutorial.SpringBootAopTutorialApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tutorial-validate/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tutorial-validate/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +106,28 @@
       <updated>1659770148979</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-tutorial-validate/src/main/java/com/example/springboottutorialvalidate/controller/AutowiredController.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
