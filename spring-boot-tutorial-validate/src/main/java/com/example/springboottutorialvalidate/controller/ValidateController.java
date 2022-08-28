@@ -1,7 +1,7 @@
 package com.example.springboottutorialvalidate.controller;
 
-import com.example.springboottutorialvalidate.dto.PersonRq;
-import com.example.springboottutorialvalidate.service.DataBindingService;
+import com.example.springboottutorialvalidate.dto.validate.PersonRq;
+import com.example.springboottutorialvalidate.service.validate.DataBindingService;
 import com.example.springboottutorialvalidate.validator.PersonValidator;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

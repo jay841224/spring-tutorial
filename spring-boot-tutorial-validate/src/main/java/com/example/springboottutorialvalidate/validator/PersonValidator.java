@@ -1,6 +1,6 @@
 package com.example.springboottutorialvalidate.validator;
 
-import com.example.springboottutorialvalidate.dto.PersonRq;
+import com.example.springboottutorialvalidate.dto.validate.PersonRq;
 import org.springframework.validation.Errors;
 import org.springframework.validation.ValidationUtils;
 import org.springframework.validation.Validator;

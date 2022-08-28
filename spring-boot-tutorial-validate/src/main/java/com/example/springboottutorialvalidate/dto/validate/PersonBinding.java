@@ -1,4 +1,4 @@
-package com.example.springboottutorialvalidate.dto;
+package com.example.springboottutorialvalidate.dto.validate;
 
 import lombok.Data;
 

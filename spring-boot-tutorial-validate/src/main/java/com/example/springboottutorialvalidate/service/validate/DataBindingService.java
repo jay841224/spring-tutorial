@@ -1,6 +1,6 @@
-package com.example.springboottutorialvalidate.service;
+package com.example.springboottutorialvalidate.service.validate;
 
-import com.example.springboottutorialvalidate.dto.PersonBinding;
+import com.example.springboottutorialvalidate.dto.validate.PersonBinding;
 import org.springframework.beans.MutablePropertyValues;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.WebDataBinder;

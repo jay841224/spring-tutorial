@@ -1,6 +1,6 @@
 package com.example.springboottutorialvalidate.convertor;
 
-import com.example.springboottutorialvalidate.dto.PersonRq;
+import com.example.springboottutorialvalidate.dto.validate.PersonRq;
 import org.springframework.core.convert.converter.Converter;
 
 import java.time.LocalDateTime;
